@@ -13,7 +13,7 @@ I wanted to have a list of local jobs. Not only the job titles, but also the com
 
 ### Couple of Issues Which Occured
 --------
-- Normalizing salaries using regular expressions.
+- Normalizing salaries.
 - Getting the right string to connect through SQLAlchemys database engine.
 
 
